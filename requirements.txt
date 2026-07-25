@@ -7,4 +7,4 @@ sentence-transformers
 pypdf
 python-dotenv
 langchain-pinecone
-
+langchain-huggingface
